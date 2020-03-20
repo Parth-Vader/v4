@@ -2,17 +2,17 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
+  - C++
+  - Python
   - React
-  - Vue
+  - Golang
   - Node.js
-  - Express
+  - Bash
   - NativeScript
 ---
 
-Hello! I'm Parth, a software engineer based in Kharagpur, India who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hello! I'm Parth, a software engineer based in Kharagpur, India who enjoys building things that are useful. I develop exceptional web apps and command line tools that provide intuitive user interfaces with efficient and modern backends. I love FOSS and hackathons.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Currently, I'm in my final year at [IIT Kharagpur](http://www.iitkgp.ac.in/), completing my Masters degree in Mathematics and Computing.
 
-Here are a few technologies I've been working with recently:
+Here are a few technologies I'm proficient in:
