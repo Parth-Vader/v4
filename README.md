@@ -23,7 +23,7 @@
 
 ## 🛠 Installation & Set Up
 
-1. Install the Gatsby CLI
+1. Install the Gatsby CLI via command line
 
    ```sh
    npm install -g gatsby-cli
